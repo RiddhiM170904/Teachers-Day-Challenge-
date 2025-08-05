@@ -22,7 +22,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 2   | Day 9  | Petya and Strings, Team                                                          | Codeforces   | ✅ Done     |
 | August 3   | Day 10 | Nearly Lucky Number, Helpful Maths                                               | Codeforces   | ✅ Done     |
 | August 4   | Day 11 | George and Accommodation, Word                                                   | Codeforces   | ✅ Done     |
-| August 5   | Day 12 | Boy or Girl, Stones on the Table                                                 | Codeforces   | ⏳ Pending  |
+| August 5   | Day 12 | Boy or Girl, Stones on the Table                                                 | Codeforces   | ✅ Done     |
 | August 6   | Day 13 | Drinks, Football                                                                 | Codeforces   | ⏳ Pending  |
 | August 7   | Day 14 | Dubstep, Presents                                                                | Codeforces   | ⏳ Pending  |
 | August 8   | Day 15 | Horseshoe, Queue at the School                                                   | Codeforces   | ⏳ Pending  |
