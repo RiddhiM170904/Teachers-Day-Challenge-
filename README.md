@@ -23,7 +23,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 3   | Day 10 | Nearly Lucky Number, Helpful Maths                                               | Codeforces   | ✅ Done     |
 | August 4   | Day 11 | George and Accommodation, Word                                                   | Codeforces   | ✅ Done     |
 | August 5   | Day 12 | Boy or Girl, Stones on the Table                                                 | Codeforces   | ✅ Done     |
-| August 6   | Day 13 | Drinks, Football                                                                 | Codeforces   | ⏳ Pending  |
+| August 6   | Day 13 | Drinks, Football                                                                 | Codeforces   | ✅ Done     |
 | August 7   | Day 14 | Dubstep, Presents                                                                | Codeforces   | ⏳ Pending  |
 | August 8   | Day 15 | Horseshoe, Queue at the School                                                   | Codeforces   | ⏳ Pending  |
 | August 9   | Day 16 | Xenia and Ringroad, I Wanna Be the Guy                                           | Codeforces   | ⏳ Pending  |
