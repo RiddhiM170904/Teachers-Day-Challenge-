@@ -27,8 +27,8 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 7   | Day 14 | Dubstep, Presents                                                                | Codeforces   | ✅ Done     |
 | August 8   | Day 15 | Horseshoe, Queue at the School                                                   | Codeforces   | ✅ Done     |
 | August 9   | Day 16 | Xenia and Ringroad, I Wanna Be the Guy                                           | Codeforces   | ✅ Done     |
-| August 10  | Day 17 | Sereja and Dima, Cheap Travel                                                    | Codeforces   | ⏳ Pending  |
-| August 11  | Day 18 | Arrival of the General, Word Capitalization                                      | Codeforces   | ⏳ Pending  |
+| August 10  | Day 17 | Sereja and Dima, Cheap Travel                                                    | Codeforces   | ✅ Done     |
+| August 11  | Day 18 | Arrival of the General, Word Capitalization                                      | Codeforces   | ✅ Done     |
 | August 12  | Day 19 | Night at the Museum, Soft Drinking                                               | Codeforces   | ⏳ Pending  |
 | August 13  | Day 20 | Park Lighting, Young Physicist                                                   | Codeforces   | ⏳ Pending  |
 | August 14  | Day 21 | Even Odds, Bit++                                                                 | Codeforces   | ⏳ Pending  |
