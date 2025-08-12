@@ -29,7 +29,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 9   | Day 16 | Xenia and Ringroad, I Wanna Be the Guy                                           | Codeforces   | ✅ Done     |
 | August 10  | Day 17 | Sereja and Dima, Cheap Travel                                                    | Codeforces   | ✅ Done     |
 | August 11  | Day 18 | Arrival of the General, Word Capitalization                                      | Codeforces   | ✅ Done     |
-| August 12  | Day 19 | Night at the Museum, Soft Drinking                                               | Codeforces   | ⏳ Pending  |
+| August 12  | Day 19 | Night at the Museum, Soft Drinking                                               | Codeforces   | ✅ Done     |
 | August 13  | Day 20 | Park Lighting, Young Physicist                                                   | Codeforces   | ⏳ Pending  |
 | August 14  | Day 21 | Even Odds, Bit++                                                                 | Codeforces   | ⏳ Pending  |
 | August 15  | Day 22 | Kefa and First Steps, Valera and Plates                                          | Codeforces   | ⏳ Pending  |
