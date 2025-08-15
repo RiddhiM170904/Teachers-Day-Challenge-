@@ -32,7 +32,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 12  | Day 19 | Night at the Museum, Soft Drinking                                               | Codeforces   | ✅ Done     |
 | August 13  | Day 20 | Park Lighting, Young Physicist                                                   | Codeforces   | ✅ Done     |
 | August 14  | Day 21 | Even Odds, Bit++                                                                 | Codeforces   | ✅ Done     |
-| August 15  | Day 22 | Kefa and First Steps, Valera and Plates                                          | Codeforces   | ⏳ Pending  |
+| August 15  | Day 22 | Kefa and First Steps, Valera and Plates                                          | Codeforces   | ✅ Done     |
 | August 16  | Day 23 | Kyoya and Photobooks, GukiZ and Contest                                          | Codeforces   | ⏳ Pending  |
 | August 17  | Day 24 | Jzzhu and Children, Xenia and Divisors                                           | Codeforces   | ⏳ Pending  |
 | August 18  | Day 25 | Tavas and SaDDas, Fox And Snake                                                  | Codeforces   | ⏳ Pending  |
