@@ -37,7 +37,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 17  | Day 24 | Jzzhu and Children, Xenia and Divisors                                           | Codeforces   | ✅ Done     |
 | August 18  | Day 25 | Tavas and SaDDas, Fox And Snake                                                  | Codeforces   | ✅ Done     |
 | August 19  | Day 26 | BerSU Ball, Soldier and Cards                                                    | Codeforces   | ✅ Done     |
-| August 20  | Day 27 | Lucky Sum of Digits, Pashmak and Flowers                                         | Codeforces   | ⏳ Pending  |
+| August 20  | Day 27 | Lucky Sum of Digits, Pashmak and Flowers                                         | Codeforces   | ✅ Done     |
 | August 21  | Day 28 | Little Elephant and Bits, Magic Numbers                                          | Codeforces   | ⏳ Pending  |
 | August 22  | Day 29 | Puzzle Pieces, Two Round Dances                                                  | Codeforces   | ⏳ Pending  |
 | August 23  | Day 30 | Special Permutation, Captain Flint and Crew Recruitment                          | Codeforces   | ⏳ Pending  |
