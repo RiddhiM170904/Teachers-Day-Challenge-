@@ -39,7 +39,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 19  | Day 26 | BerSU Ball, Soldier and Cards                                                    | Codeforces   | ✅ Done     |
 | August 20  | Day 27 | Lucky Sum of Digits, Pashmak and Flowers                                         | Codeforces   | ✅ Done     |
 | August 21  | Day 28 | Little Elephant and Bits, Magic Numbers                                          | Codeforces   | ✅ Done     |
-| August 22  | Day 29 | Puzzle Pieces, Two Round Dances                                                  | Codeforces   | ⏳ Pending  |
+| August 22  | Day 29 | Puzzle Pieces, Two Round Dances                                                  | Codeforces   | ✅ Done     |
 | August 23  | Day 30 | Special Permutation, Captain Flint and Crew Recruitment                          | Codeforces   | ⏳ Pending  |
 | August 24  | Day 31 | Hit the Lottery, Registration System                                             | Codeforces   | ⏳ Pending  |
 | August 25  | Day 32 | Constructing the Array, Gravity Flip                                             | Codeforces   | ⏳ Pending  |
