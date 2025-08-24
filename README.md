@@ -41,7 +41,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 21  | Day 28 | Little Elephant and Bits, Magic Numbers                                          | Codeforces   | ✅ Done     |
 | August 22  | Day 29 | Puzzle Pieces, Two Round Dances                                                  | Codeforces   | ✅ Done     |
 | August 23  | Day 30 | Special Permutation, Captain Flint and Crew Recruitment                          | Codeforces   | ✅ Done     |
-| August 24  | Day 31 | Hit the Lottery, Registration System                                             | Codeforces   | ⏳ Pending  |
+| August 24  | Day 31 | Hit the Lottery, Registration System                                             | Codeforces   | ✅ Done     |
 | August 25  | Day 32 | Constructing the Array, Gravity Flip                                             | Codeforces   | ⏳ Pending  |
 | August 26  | Day 33 | Vanya and Lanterns, Divisibility Problem                                         | Codeforces   | ⏳ Pending  |
 | August 27  | Day 34 | Spy Detected!, Hit the Lottery (recap)                                           | Codeforces   | ⏳ Pending  |
