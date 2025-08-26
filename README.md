@@ -2,7 +2,7 @@
 
 Welcome to the **#TeachersDay Challenge** by VIT Bhopal, inspired by the mission of **#DrGViswanathan**. This is more than just a coding challenge – it's about consistency, discipline, and growth, one problem at a time. 💪
 
-Aiming for the moon, you will achieve stars 
+Aiming for the moon, you will achieve stars ⭐
 
 This repository documents my journey in the **Advanced Track**, where each day I solve challenging problems from platforms like **LeetCode** and **Codeforces**, building my skills and mindset for technical excellence.
 
