@@ -48,7 +48,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | August 26  | Day 33 | Vanya and Lanterns, Divisibility Problem                                         | Codeforces   | ✅ Done     |
 | August 27  | Day 34 | Spy Detected!, Hit the Lottery (recap)                                           | Codeforces   | ✅ Done     |
 | August 28  | Day 35 | Kefa and First Steps (recap), BerSU Ball (recap)                                 | Codeforces   | ✅ Done     |
-| August 29  | Day 36 | Soldier and Cards (recap), Pashmak and Flowers (recap)                           | Codeforces   | ⏳ Pending  |
+| August 29  | Day 36 | Soldier and Cards (recap), Pashmak and Flowers (recap)                           | Codeforces   | ✅ Done     |
 | August 30  | Day 37 | Special Permutation (recap), Captain Flint... (recap)                            | Codeforces   | ⏳ Pending  |
 | August 31  | Day 38 | Registration System (recap), Constructing the Array (recap)                      | Codeforces   | ⏳ Pending  |
 | September 1 | Day 39 | T-Primes, Vanya and Lanterns (recap)                                            | Codeforces   | ⏳ Pending  |
