@@ -54,7 +54,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 | September 1 | Day 39 | T-Primes, Vanya and Lanterns (recap)                                            | Codeforces   | ✅ Done     |
 | September 2 | Day 40 | Cheap Travel (recap), Divisibility Problem (recap)                              | Codeforces   | ✅ Done     |
 | September 3 | Day 41 | Spy Detected! (recap), Constructing the Array (again)                           | Codeforces   | ✅ Done     |
-| September 4 | Day 42 | Kefa and First Steps (again), BerSU Ball (again)                                | Codeforces   | ⏳ Pending  |
+| September 4 | Day 42 | Kefa and First Steps (again), BerSU Ball (again)                                | Codeforces   | ✅ Done     |
 | September 5 | Day 43 | Pashmak and Flowers (again), Magic Numbers (again)                              | Codeforces   | ⏳ Pending  |
 ---
 
