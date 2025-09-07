@@ -10,7 +10,7 @@ This repository documents my journey in the **Advanced Track**, where each day I
 
 ## 📅 Challenge Timeline & Problems (July 25 – Sept 5)
 
-**Challenge Completed** 
+**Challenge Completed on 5th September'25** 
 
 
 | Date       | Day   | Problems Solved                                                                 | Platform     | Status     |
